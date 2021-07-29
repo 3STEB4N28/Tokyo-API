@@ -1,0 +1,35 @@
+{
+  "name": "tokyo-api",
+  "version": "0.0.69",
+  "description": "Wrapper for https://api.willz.repl.co (Tokyo API) !!",
+  "author": "Mid",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miduwu/Tokyo-API.git"
+  },
+"homepage": "https://github.com/Miduwu/Tokyo-API#readme",
+  "keywords": [
+    "api",
+    "Tokyo",
+    "discord-apis",
+    "api-wrapper",
+    "api",
+    "discord-image",
+    "imagegeneration",
+    "apis",
+    "willz",
+    "willz-api",
+    "discord-bot-api",
+    "bots-api",
+    "useful-api",
+    "random-api"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
