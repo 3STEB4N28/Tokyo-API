@@ -7,6 +7,16 @@ Tokyo API wrapper [Click](https://api.willz.repl.co)
 - 🎉 Popular API.
 
 # Install
-```js
+```
 npm i Tokyo-API
+```
+
+# Usage
+```js
+const mid = require('Tokyo-API')
+const midKey = "You-token"
+
+(async() => {
+let data = await mid.imagesearch('amongus', midKey)
+})
 ```
