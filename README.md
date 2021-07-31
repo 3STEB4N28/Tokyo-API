@@ -8,7 +8,7 @@ Tokyo API wrapper [Click](https://api.willz.repl.co)
 
 # Install
 ```
-npm i Tokyo-API
+npm i tokyo-api
 ```
 
 # Usage
